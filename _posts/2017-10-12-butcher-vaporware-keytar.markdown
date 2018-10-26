@@ -1,14 +1,15 @@
 ---
+title: Butcher Vaporware Keytar
+date: 2017-10-12 00:00:00 Z
+tags:
+- Squid
+- Mixtape
 layout: post
-title: "Butcher Vaporware Keytar"
-date: 2017-10-12
 description: 
-image: /assets/images/placeholder-13.jpg
+image: "/assets/images/placeholder-13.jpg"
 author: Thomas Vaeth
-tags: 
-  - Squid
-  - Mixtape
 ---
+
 # Bicycle Rights
 Subway tile iPhone hot chicken, pour-over kale chips synth godard distillery man braid forage raclette blue bottle. Ugh hashtag hammock gastropub meggings la croix four dollar toast VHS disrupt PBR&B narwhal farm-to-table pabst. Kinfolk brooklyn viral tilde humblebrag bicycle rights. 
 

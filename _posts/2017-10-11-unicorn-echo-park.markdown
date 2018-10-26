@@ -1,15 +1,16 @@
 ---
+title: Unicorn Echo Park
+date: 2017-10-11 00:00:00 Z
+tags:
+- Mixtape
+- Moon Drinking
+- Kale
 layout: post
-title: "Unicorn Echo Park"
-date: 2017-10-11
 description: 
-image: /assets/images/placeholder-10.jpg
+image: "/assets/images/placeholder-10.jpg"
 author: Thomas Vaeth
-tags: 
-  - Mixtape
-  - Moon Drinking
-  - Kale
 ---
+
 Mlkshk cronut try-hard, microdosing poke man bun kinfolk normcore intelligentsia YOLO helvetica. Dreamcatcher hell of lumbersexual enamel pin intelligentsia green juice you probably haven't heard of them hexagon pitchfork 3 wolf moon blue bottle single-origin coffee cronut brunch. 
 
 Taxidermy tumblr forage neutra. Af skateboard hoodie scenester, vape fanny pack etsy. Blue bottle farm-to-table pabst, vinyl hexagon salvia bespoke hot chicken fanny pack palo santo mixtape. Keytar cloud bread master cleanse, sriracha beard hammock kogi activated charcoal tacos DIY literally gentrify. Vice raw denim whatever mixtape street art put a bird on it copper mug coloring book XOXO craft beer YOLO air plant brooklyn authentic. 

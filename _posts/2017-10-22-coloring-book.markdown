@@ -1,15 +1,16 @@
 ---
+title: Coloring Book
+date: 2017-10-22 00:00:00 Z
+tags:
+- Squid
+- Moon Drinking
+- Kale
 layout: post
-title: "Coloring Book"
-date: 2017-10-22
 description: 
-image: /assets/images/placeholder-8.jpg
+image: "/assets/images/placeholder-8.jpg"
 author: Thomas Vaeth
-tags: 
-  - Squid
-  - Moon Drinking
-  - Kale
 ---
+
 Cred artisan post-ironic ramps chillwave. Cornhole letterpress beard literally master cleanse godard selvage blog tattooed actually vexillologist. Fingerstache tousled DIY +1. 
 
 YOLO cold-pressed cred activated charcoal pabst hexagon VHS cornhole brunch, tbh salvia butcher coloring book. Mlkshk sartorial prism master cleanse brooklyn vegan knausgaard PBR&B subway tile swag umami synth distillery. Green juice woke pork belly drinking vinegar williamsburg bitters lyft unicorn hammock. 

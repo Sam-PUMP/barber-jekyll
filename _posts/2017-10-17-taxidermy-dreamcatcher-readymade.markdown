@@ -1,15 +1,16 @@
 ---
+title: Taxidermy Dreamcatcher Readymade
+date: 2017-10-17 00:00:00 Z
+tags:
+- Dummy Text
+- Moon Drinking
+- Kale
 layout: post
-title: "Taxidermy Dreamcatcher Readymade"
-date: 2017-10-17
 description: 
-image: /assets/images/placeholder-6.jpg
+image: "/assets/images/placeholder-6.jpg"
 author: Thomas Vaeth
-tags: 
-  - Dummy Text
-  - Moon Drinking
-  - Kale
 ---
+
 Hammock drinking vinegar readymade roof party, portland small batch occupy freegan biodiesel XOXO retro gastropub trust fund. Cardigan locavore chillwave gentrify four loko pok pok lumbersexual blog helvetica hell of church-key cold-pressed. Taxidermy dreamcatcher readymade, activated charcoal tattooed artisan ramps sartorial vape schlitz typewriter master cleanse messenger bag williamsburg.
 
 Readymade fanny pack seitan, yr austin chicharrones health goth hella listicle gluten-free kale chips. Listicle authentic semiotics, snackwave af bicycle rights meditation whatever gentrify. Authentic semiotics unicorn, lo-fi VHS before they sold out palo santo gentrify stumptown hoodie. Austin four loko cornhole bespoke beard adaptogen next level semiotics.

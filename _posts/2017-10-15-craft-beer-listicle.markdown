@@ -1,15 +1,16 @@
 ---
+title: Craft Beer Listicle
+date: 2017-10-15 00:00:00 Z
+tags:
+- Mixtape
+- Moon Drinking
+- Kale
 layout: post
-title: "Craft Beer Listicle"
-date: 2017-10-15
 description: 
-image: /assets/images/placeholder-16.jpg
+image: "/assets/images/placeholder-16.jpg"
 author: Thomas Vaeth
-tags: 
-  - Mixtape
-  - Moon Drinking
-  - Kale
 ---
+
 Cred artisan post-ironic ramps chillwave. Cornhole letterpress beard literally master cleanse godard selvage blog tattooed actually vexillologist. Fingerstache tousled DIY +1. 
 
 ![Placeholder](/assets/images/placeholder-24.jpg)

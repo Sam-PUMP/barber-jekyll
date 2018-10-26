@@ -1,15 +1,16 @@
 ---
+title: Waistcoat Tote Bag Pickled
+date: 2017-10-19 00:00:00 Z
+tags:
+- Dummy Text
+- Moon Drinking
+- Kale
 layout: post
-title: "Waistcoat Tote Bag Pickled"
-date: 2017-10-19
 description: 
-image: /assets/images/placeholder-4.jpg
+image: "/assets/images/placeholder-4.jpg"
 author: Thomas Vaeth
-tags: 
-  - Dummy Text
-  - Moon Drinking
-  - Kale
 ---
+
 You probably haven't heard of them pug wayfarers pork belly ennui ramps yuccie seitan hexagon mumblecore PBR&B banjo readymade. Fixie post-ironic ennui, freegan blog kale chips bitters tote bag polaroid jean shorts. 
 
 Bespoke fingerstache keffiyeh, scenester godard tacos flexitarian mixtape PBR&B knausgaard. Kale chips intelligentsia glossier mixtape sustainable 8-bit iPhone. Cornhole godard four loko, poke brunch farm-to-table umami church-key trust fund tote bag tbh waistcoat before they sold out franzen vexillologist. Helvetica green juice sustainable pinterest 8-bit VHS. 

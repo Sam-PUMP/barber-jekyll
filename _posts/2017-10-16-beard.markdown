@@ -1,15 +1,16 @@
 ---
+title: Beard
+date: 2017-10-16 00:00:00 Z
+tags:
+- Squid
+- Moon Drinking
+- Kale
 layout: post
-title: "Beard"
-date: 2017-10-16
 description: 
-image: /assets/images/placeholder-7.jpg
+image: "/assets/images/placeholder-7.jpg"
 author: Thomas Vaeth
-tags: 
-  - Squid
-  - Moon Drinking
-  - Kale
 ---
+
 Mlkshk cronut try-hard, microdosing poke man bun kinfolk normcore intelligentsia YOLO helvetica. Dreamcatcher hell of lumbersexual enamel pin intelligentsia green juice you probably haven't heard of them hexagon pitchfork 3 wolf moon blue bottle single-origin coffee cronut brunch. 
 
 ![Placeholder](/assets/images/placeholder-25.jpg)

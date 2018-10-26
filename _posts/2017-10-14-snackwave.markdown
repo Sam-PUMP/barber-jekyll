@@ -1,14 +1,15 @@
 ---
+title: Snackwave
+date: 2017-10-14 00:00:00 Z
+tags:
+- Squid
+- Mixtape
 layout: post
-title: "Snackwave"
-date: 2017-10-14
 description: 
-image: /assets/images/placeholder-11.jpg
+image: "/assets/images/placeholder-11.jpg"
 author: Thomas Vaeth
-tags: 
-  - Squid
-  - Mixtape
 ---
+
 You probably haven't heard of them pug wayfarers pork belly ennui ramps yuccie seitan hexagon mumblecore PBR&B banjo readymade. 
 
 Fixie post-ironic ennui, freegan blog kale chips bitters tote bag polaroid jean shorts. Bespoke fingerstache keffiyeh, scenester godard tacos flexitarian mixtape PBR&B knausgaard. Kale chips intelligentsia glossier mixtape sustainable 8-bit iPhone. Cornhole godard four loko, poke brunch farm-to-table umami church-key trust fund tote bag tbh waistcoat before they sold out franzen vexillologist. 

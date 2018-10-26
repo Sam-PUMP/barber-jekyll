@@ -1,15 +1,16 @@
 ---
+title: Blue Bottle
+date: 2017-10-18 00:00:00 Z
+tags:
+- Squid
+- Moon Drinking
+- Kale
 layout: post
-title: "Blue Bottle"
-date: 2017-10-18
 description: 
-image: /assets/images/placeholder-5.jpg
+image: "/assets/images/placeholder-5.jpg"
 author: Thomas Vaeth
-tags: 
-  - Squid
-  - Moon Drinking
-  - Kale
 ---
+
 # Bicycle Rights
 Subway tile iPhone hot chicken, pour-over kale chips synth godard distillery man braid forage raclette blue bottle. Ugh hashtag hammock gastropub meggings la croix four dollar toast VHS disrupt PBR&B narwhal farm-to-table pabst. Kinfolk brooklyn viral tilde humblebrag bicycle rights. 
 
